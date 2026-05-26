@@ -1,6 +1,6 @@
 # Exercícios Python - IFNMG
 
-Repositório criado para armazenar exercícios e atividades práticas desenvolvidas durante meus estudos em Python no curso de Bacharelado em Sistemas de Informação no IFNMG.
+Repositório criado para armazenar exercícios e atividades práticas desenvolvidas durante meus estudos em Python no curso de Bacharelado em Sistemas de Informação no IFNMG(Instituto Federal do Norte de Minas Gerais).
 
 ## Conteúdo dos exercícios
 
