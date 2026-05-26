@@ -1,0 +1,6 @@
+# Exercício Python(Escreva seu nome)
+print("Digite seu nome:")
+nome=input()
+print("Qual seu sobrenome?")
+sobrenome=input()
+print ("Bom dia,",nome,sobrenome,"!""\nHoje está um lindo dia.")
