@@ -5,28 +5,50 @@ Este repositório reúne exercícios desenvolvidos durante meus estudos de Pytho
 
 O objetivo é praticar lógica de programação, resolução de problemas e os fundamentos da linguagem Python.
 
-## 🗂️ Conteúdo
-- Entrada e saída de dados
-- Operações matemáticas
-- Cálculo de IMC
-- Média de notas
-- Cálculos financeiros
-- Exercícios de lógica
+## 🗂️ Estrutura do projeto
+
+```text
+01-entrada-saida/
+  numero_mensagem.py
+  saudacao_usuario.py
+
+02-operadores/
+  calculadora_imc.py
+  quatro_operacoes.py
+
+03-calculos/
+  lucro_festa.py
+```
 
 ## 🚀 Como executar
 1. Instale o Python 3.
-2. Clone o repositório.
-3. Execute qualquer exercício:
+2. Clone o repositório:
 ```bash
-python nome_do_arquivo.py
+git clone https://github.com/angeloantunesdarocha/exercicios-python-ifnmg.git
+```
+3. Entre na pasta do projeto:
+```bash
+cd exercicios-python-ifnmg
+```
+4. Execute o exercício desejado:
+```bash
+python 01-entrada-saida/numero_mensagem.py
 ```
 
 ## 🎯 Objetivos de aprendizagem
 - Variáveis
 - Operadores
-- Entrada e saída
-- Lógica de programação
+- Entrada e saída de dados
+- Cálculos matemáticos
 - Organização de código
+- Boas práticas iniciais com Python
+
+## ✅ Melhorias aplicadas
+- Organização dos exercícios em pastas.
+- Nomes de variáveis mais descritivos.
+- Uso de `f-strings` para formatação de mensagens.
+- Correção do cálculo de lucro da festa.
+- Inclusão de `.gitignore` para projetos Python.
 
 ## 👨‍💻 Autor
 **Ângelo Antunes da Rocha**
