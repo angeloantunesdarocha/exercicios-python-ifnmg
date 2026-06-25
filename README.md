@@ -18,6 +18,9 @@ O objetivo é praticar lógica de programação, resolução de problemas e os f
 
 03-calculos/
   lucro_festa.py
+
+04-formatacao/
+  fstrings.py
 ```
 
 ## 🚀 Como executar
@@ -32,7 +35,7 @@ cd exercicios-python-ifnmg
 ```
 4. Execute o exercício desejado:
 ```bash
-python 01-entrada-saida/numero_mensagem.py
+python 04-formatacao/fstrings.py
 ```
 
 ## 🎯 Objetivos de aprendizagem
@@ -40,6 +43,7 @@ python 01-entrada-saida/numero_mensagem.py
 - Operadores
 - Entrada e saída de dados
 - Cálculos matemáticos
+- Formatação de strings
 - Organização de código
 - Boas práticas iniciais com Python
 
